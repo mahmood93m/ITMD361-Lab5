@@ -1,0 +1,127 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  line-height: 1;
+}
+img {
+  align-self: center;
+  max-width:50%;
+  height: auto;
+  border-radius: 10%;
+}
+body {
+  position: relative;
+  align-items:center;
+  align-content: center;
+  margin-top: 20px;
+  background-image: url("../media/background.jpg");
+  Background-color: #FFFFFF;
+  background-size: cover;
+  color: white;
+  font-weight: 100
+}
+thead, th {
+  border-radius: 5px;
+  background-color: #0808084b;
+  border-style: inset;
+  border: 5px rgb(187, 183, 183);
+  border-style: ridge;
+  font-weight: 100;
+  font-size: 18px;
+  padding: 4px;
+  width: 200px;
+}
+
+table {
+  position: relative;
+  align-items:center;
+  align-content: center;
+  border: 5px rgb(8, 8, 8);
+  border-style: outset;
+  vertical-align: middle;
+  text-align: center;
+  align-items:center;
+  padding: 5px;
+  position: relative;
+}
+tbody, td {
+  border-radius: 5px;
+  border-color: rgb(187, 183, 183);
+  background-color: #0202024b;
+  font-weight: 100;
+  border-style: solid;
+  padding: 2px;
+  font-size: 16px;
+}
+
+.titlefield {
+  color: rgb(236, 236, 236);
+  font-style: italic;
+  font-variant: unset;
+}
+
+.planet {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  font-size: 22px;
+  padding: 2px;
+}
+.subtext {
+  font-size: 12px;
+  font-variant: small-caps;
+}
+.title{
+  font-size: 30px;
+  color: white;
+  margin: 20px;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+}
+.text {
+  font-size: 24px;
+  color: lightgray;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#image {
+  color: rgb(209, 52, 162);
+  font-style: italic;
+}
+#mass {
+  color: rgb(190, 159, 219);
+  font-style: italic;
+}
+#diameter {
+  color: deepskyblue;
+  font-style: italic;
+}
+#density {
+  color: red;
+  font-style: italic;
+}
+#velocity {
+  color: rgb(255, 172, 71);
+  font-style: italic;
+}
+#distance {
+  color: rgb(21, 255, 0);
+  font-style: italic;
+}
+
+#rotation {
+  color: rgb(198, 214, 138);
+  font-style: italic;
+}
+#revolution {
+  color: rgb(253, 253, 253);
+  font-style: italic;
+}
