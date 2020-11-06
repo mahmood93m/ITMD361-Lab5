@@ -91,6 +91,25 @@ tbody, td {
   align-items: center;
   text-align: center;
 }
+.footer {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500
+}
+#link
+{
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500
+}
 
 #image {
   color: rgb(209, 52, 162);
